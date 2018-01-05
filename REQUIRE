@@ -1,6 +1,6 @@
-julia 0.6
+julia 0.6.0 
 PyPlot
-Distributions 0.15.0
+Distributions 
 StatsBase
 KernelDensity  
-DataFrames 0.10.1
+DataFrames 
