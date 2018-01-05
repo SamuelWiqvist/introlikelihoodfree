@@ -1,6 +1,4 @@
-# [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/SamuelWiqvist/introlikelihoodfree/master) 
-
-# Introduction to likelihood-free inference 
+# [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/SamuelWiqvist/introlikelihoodfree/master)  \\  Introduction to likelihood-free inference 
 
 This  repository containes a Julia Jupyter notebook where some likelihood-free inference methods are presented. 
 
