@@ -1,4 +1,4 @@
-# This file contains the functions and types related to the
+# This file contains the functions and types related to the adaptive updating algorithms 
 
 abstract type  AdaptationAlgorithm end 
 
