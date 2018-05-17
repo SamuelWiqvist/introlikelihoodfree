@@ -1,8 +1,8 @@
 julia 0.6.0 
-PyPlot
-Distributions 
-StatsBase
-KernelDensity  
-DataFrames 
-CSV
-Roots 
+PyPlot 2.5.0
+Distributions 0.15.0
+StatsBase 0.22.0
+KernelDensity 0.4.1 
+DataFrames 0.11.6
+CSV 0.2.4
+Roots 0.6.0
